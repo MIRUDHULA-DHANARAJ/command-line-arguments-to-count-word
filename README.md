@@ -12,7 +12,7 @@ Create a text file in a specific loaction of interest.
 On the same location as the text file, create a python program file.
  
 ### Step 3: 
-In python Program, import sys and open a text file with argument "sys.argv[1]"
+In python Program, import sys and open a text file with argument "sys.argv[1]".
 
 ### Step 4:
 using read() and split(), split the lines in the file into a sequence of words.  
